@@ -9,7 +9,7 @@
 
 先介绍两个算法题，试试感觉~
 
-### [示例 1：strStr](https://leetcode-cn.com/problems/implement-strstr/)
+### [示例 1：strStr](https://leetcode.com/problems/implement-strstr/)
 
 > 给定一个  haystack 字符串和一个 needle 字符串，在 haystack 字符串中找出 needle 字符串出现的第一个位置 (从 0 开始)。如果不存在，则返回  -1。
 
@@ -31,7 +31,7 @@ class Solution:
 - 循环时，i 不需要到 len-1
 - 如果找到目标字符串，len(needle) == j
 
-### [示例 2：subsets](https://leetcode-cn.com/problems/subsets/)
+### [示例 2：subsets](https://leetcode.com/problems/subsets/)
 
 > 给定一组不含重复元素的整数数组 nums，返回该数组所有可能的子集（幂集）。
 
@@ -92,5 +92,5 @@ class Solution:
 
 ## 练习
 
-- [ ] [strStr](https://leetcode-cn.com/problems/implement-strstr/)
-- [ ] [subsets](https://leetcode-cn.com/problems/subsets/)
+- [ ] [strStr](https://leetcode.com/problems/implement-strstr/)
+- [ ] [subsets](https://leetcode.com/problems/subsets/)

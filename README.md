@@ -72,11 +72,11 @@
 
 ![练习题](https://img.fuiboom.com/img/repo_practice.png)
 
-2、 [LeetCode 卡片](https://leetcode-cn.com/explore/)
+2、 [LeetCode 卡片](https://leetcode.com/explore/)
 
 ![探索卡片](https://img.fuiboom.com/img/leetcode_explore.png)
 
-3、 [剑指 offer](https://leetcode-cn.com/problemset/lcof/)
+3、 [剑指 offer](https://leetcode.com/problemset/lcof/)
 
 ![剑指offer](https://img.fuiboom.com/img/leetcode_jzoffer.png)
 
